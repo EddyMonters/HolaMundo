@@ -1,5 +1,7 @@
 # HolaMundo
-Mi primer repositorio
+
+Hola 👋 mundo
+Mi primer repositorio de otra rama
 
 Eden Pineda Montero
 
