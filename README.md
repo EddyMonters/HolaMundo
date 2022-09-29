@@ -1,8 +1,6 @@
 # HolaMundo
-
-Hola 👋 mundo
-Mi primer repositorio en otra rama
+Mi primer repositorio
 
 Eden Pineda Montero
 
-Fecha: 28 de septiembre del 2022
+Fecha: 27 de septiembre del 2022
